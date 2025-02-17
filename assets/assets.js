@@ -78,26 +78,31 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'Cryptocurrency Trading Bot',
+        description: 'Backend Development',
         bgImage: '/work-1.png',
+        githubLink: 'https://github.com/Sebastian-Zgheyb/CryptoBot',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'AI Onboarding Assistant',
+        description: 'Backend Development',
         bgImage: '/work-2.png',
+        githubLink: 'https://github.com/Sebastian-Zgheyb/OnboardingAssistant',
     },
     {
-        title: 'Photography site',
+        title: 'To-Do List',
         description: 'Web Design',
         bgImage: '/work-3.png',
+        githubLink: 'https://github.com/Sebastian-Zgheyb/TodoList',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'CS2 Driver',
+        description: 'Backend Development',
         bgImage: '/work-4.png',
+        githubLink: 'https://github.com/Sebastian-Zgheyb/CS-Driver',
     },
-]
+];
+
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
@@ -107,11 +112,15 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, Python, C, JavaScript/TypeScript, React, HTML, CSS' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelor of Computer Science' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built 4 passion projects' }
 ];
 
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.vscode, assets.git, assets.mongodb
 ];
+
+/*
+assets.firebase, assets.figma, assets.mongodb, 
+*/
