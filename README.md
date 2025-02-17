@@ -1,3 +1,9 @@
+# My Portfolio Website 🚀  
+
+Check out my live portfolio here: [sebastian-z-portfolio.vercel.app](https://sebastian-z-portfolio.vercel.app/)  
+
+Built with **Next.js**, deployed on **Vercel**.  
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
